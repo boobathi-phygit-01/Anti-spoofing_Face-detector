@@ -92,6 +92,4 @@ Each detected face is annotated with:
 
 `REAL_CLASS_ID` (default `1`) in `face_antispoof.py` maps the model's output classes to `Real`/`Fake` labels — adjust if using a differently trained checkpoint.
 
-## License
 
-No license specified. Add a `LICENSE` file if you intend to distribute or open-source this project.
